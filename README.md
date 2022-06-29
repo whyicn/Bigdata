@@ -57,3 +57,6 @@ AUTH %replace with your password%
 ### 4. download Hadoop 3.1.4 on [archive.apache.org](https://archive.apache.org/dist/hadoop/core/hadoop-3.1.4/)
 ### 5. download [winuitls](https://github.com/steveloughran/winutils) and replace `$(HADOOOP_HOME)\bin` with `winutils/bin`
 
+## Before running the project
+* Complement or Replace the parameter on `src/main/resources/application.properties` 
+* check `src/main/resources/core-site.xml` and `src/main/resources/hdfs-site.xml` are same to the hadoop folder.
