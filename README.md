@@ -60,3 +60,24 @@ AUTH %replace with your password%
 ## Before running the project
 * Complement or Replace the parameter on `src/main/resources/application.properties` 
 * check `src/main/resources/core-site.xml` and `src/main/resources/hdfs-site.xml` are same to the hadoop folder.
+
+##Example result
+1. executeTaskOne
+![image](https://user-images.githubusercontent.com/29159859/176542709-9978bd9a-c469-4965-9c69-779a7b85f1f9.png)
+2. executeTaskTwo
+![image](https://user-images.githubusercontent.com/29159859/176542740-49ddbfdd-2a84-4abd-bff3-995a66adfdb9.png)
+3. executeTaskThree
+![image](https://user-images.githubusercontent.com/29159859/176542768-bcfc7425-56f6-48ce-927e-2a004cc31aa2.png)
+4. GetValueByKey
+![image](https://user-images.githubusercontent.com/29159859/176542832-da429805-fd39-4707-b5e3-b4fe0c2bb449.png)
+
+## Example Output
+1. Task One
+![image](https://user-images.githubusercontent.com/29159859/176542998-fd2a1c47-b9a3-43db-b06b-d9acf90cc487.png)
+2. Task Two
+![image](https://user-images.githubusercontent.com/29159859/176543110-d0060c27-6176-4084-b477-8031a4edfaa8.png)
+3. Task Three
+![image](https://user-images.githubusercontent.com/29159859/176543528-bb8d6358-69da-44a8-948f-55d43b43e16b.png)
+
+
+
