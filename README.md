@@ -60,6 +60,7 @@ AUTH %replace with your password%
 ## Before running the project
 * Complement or Replace the parameter on `src/main/resources/application.properties` 
 * check `src/main/resources/core-site.xml` and `src/main/resources/hdfs-site.xml` are same to the hadoop folder.
+* creat the folder of `/bodyPerformance` on HDFS and upload the file.
 
 ## Example result
 1. executeTaskOne
