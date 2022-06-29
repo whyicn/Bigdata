@@ -1,0 +1,16 @@
+<configuration>
+    <configuration>
+        <property>
+            <name>dfs.replication</name>
+            <value>1</value>
+        </property>
+        <property>
+            <name>dfs.name.dir</name>
+            <value>file:///D:/Programs/hadoop-3.1.4/data/log</value>
+        </property>
+        <property>
+            <name>dfs.data.dir</name>
+            <value>file:///D:/Programs/hadoop-3.1.4/data/input</value>
+        </property>
+    </configuration>
+</configuration>
