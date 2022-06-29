@@ -1,6 +1,6 @@
 # Hadoop + Redis + Springboot DataAnalysis
 **The purpose of this project is integrating Hadoop redis and springboot to analysis the [bodyperformance.csv]() data which got on kaggle**  
-Brieve description of each tasks.
+brief description of each tasks.
 1. the first task is to work out the average date of each columns, and devided by Gender and class.
 2. the second task is to work out for the average performance through ages and gender.
 3. the third task calculate the hightest and lowest record of each columns according to class and Gender.
