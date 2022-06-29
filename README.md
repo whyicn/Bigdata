@@ -77,9 +77,6 @@ AUTH %replace with your password%
 2. Task Two
 ![image](https://user-images.githubusercontent.com/29159859/176543110-d0060c27-6176-4084-b477-8031a4edfaa8.png)
 3. Task Three
-![image](https://user-images.githubusercontent.com/29159859/176543528-bb8d6358-69da-44a8-948f-55d43b43e16b.png#width-full)
+![image](https://user-images.githubusercontent.com/29159859/176543528-bb8d6358-69da-44a8-948f-55d43b43e16b.png# width: 60%;)
 
-img[src*="#width-full"] {
- width: 70%;
-}
 
