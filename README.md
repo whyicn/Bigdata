@@ -16,7 +16,7 @@ brief description of each tasks.
 |SpringBoot|2.6.8|
 
 ## The process of setting environment on **LINUX** are list as follow.
-### 1. prepare the environment on linux about persuade Hadoop running with docker.
+### 1. prepare the environment on linux about persuade Hadoop cluster running with docker.
 ```
 docker pull effeerre/hadoop
 docker network create --driver bridge hadoop_network
