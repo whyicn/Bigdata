@@ -1,7 +1,7 @@
 # Hadoop + Redis + Springboot DataAnalysis
 **The purpose of this project is integrating Hadoop redis and springboot to analysis the [bodyperformance.csv]() data which got on kaggle**  
-Brieve description of each tasks.
-1. the first task is to work out the average date of each columns, and devided by Gender and class.
+brief description of each tasks.
+1. the first task is to work out the average data of each columns, and divided by Gender and class.
 2. the second task is to work out for the average performance through ages and gender.
 3. the third task calculate the hightest and lowest record of each columns according to class and Gender.
 
@@ -16,7 +16,7 @@ Brieve description of each tasks.
 |SpringBoot|2.6.8|
 
 ## The process of setting environment on **LINUX** are list as follow.
-### 1. prepare the environment on linux about persuade Hadoop running with docker.
+### 1. prepare the environment on linux about persuade Hadoop cluster running with docker.
 ```
 docker pull effeerre/hadoop
 docker network create --driver bridge hadoop_network
